@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rishik Dev Pabbi
 
-<!--
-**globalhorizons25-cmyk/globalhorizons25-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & SaaS Founder · Full-Stack Developer**  
+Nuremberg, Germany
 
-Here are some ideas to get you started:
+I build intelligent software that turns ambitious ideas into useful products. My work spans AI, SaaS, and full-stack development, with a focus on solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I focus on
+
+- AI-powered products and intelligent agents
+- Scalable SaaS experiences
+- Full-stack development with React, TypeScript, and Supabase
+
+I’m driven by the challenge of taking an idea from its first sketch to software people can use.
+
+**Get in touch:** [rdpxmindset@gmail.com](mailto:rdpxmindset@gmail.com)
